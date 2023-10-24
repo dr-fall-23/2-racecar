@@ -1,11 +1,13 @@
 """Submit the document "exit-ticket-10-24-23.py" on GitHub with your answers.
 
+Remember, you're allowed to refer to any notes you take during class!!
+
 1. What's your favorite color? Tell us in English, and write the color's 3 number BGR code. 
 You can use the Color Trackbar to find it, or look it up online.
 
 2. Suppose we have two colors, `color_1` and `color_2` which are defined by the hue, saturation, 
 values `(hue_1, sat_1, val_1)` and `(hue_2, sat_2, val_2)` respectively. Suppose that `hue_1 = hue_2`, 
-`sat_1 = sat_2`, and `val_1 < val_2`(hue and saturation are the same but one value is lower). 
+`sat_1 = sat_2`, and `val_1 < val_2`(hue and saturation are the same but the value is lower). 
 How would `color_1` and `color_2` differ visually?
 
 # Challenge question!
